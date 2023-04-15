@@ -1,0 +1,1 @@
+tensorboard --logdir_spec efficient:model1-effecientNet/logs/,mobile:model2-mobileNet/logs/,resnet:model3-Resnet/logs/
